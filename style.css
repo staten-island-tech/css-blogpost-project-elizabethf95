@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(248, 228, 201);
+  color: rgb(238, 32, 73);
+  font-size: 25px;
+  text-align: center;
+  font-family: "Gemunu Libre", sans-serif;
+}
+.main-header {
+  text-align: center;
+  margin: 20px auto;
+  border: 3px solid rgb(224, 166, 132);
+  padding: 50px 25px;
+}
+.Post {
+  background-color: wheat;
+  padding: 5px 5px;
+  color: rgb(207, 28, 28);
+  margin: 50px;
+}
+.Post-Header {
+  text-align: center;
+}
